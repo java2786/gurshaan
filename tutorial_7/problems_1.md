@@ -18,5 +18,10 @@
   1 2 3  
   ```  
 - Inverted number triangle.  
+  ```  
+      1  
+    2 1
+  3 2 1
+  ```  
 - Pyramid and diamond patterns.  
 - Pascal’s triangle up to N rows.  
