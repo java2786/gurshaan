@@ -1,0 +1,16 @@
+variable
+constructs
+practice
+loops
+
+built in - data structure
+- list
+- tuple
+- set 
+- dictionary
+
+functions
+file handling
+exception handling 
+
+web crawl
